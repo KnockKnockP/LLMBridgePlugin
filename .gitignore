@@ -1,0 +1,22 @@
+# Unreal build output
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# IDE / project files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
